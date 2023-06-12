@@ -9,7 +9,7 @@ python -m venv venv
 ## Activate virtual environment and install requirements file
 
 ```
-pip instal -r requirements.txt
+pip install -r requirements.txt
 ```
 
 run the application
