@@ -6,7 +6,13 @@
 python -m venv venv
 ```
 
-## Activate virtual environment and run the application
+## Activate virtual environment and install requirements file
+
+```
+pip instal -r requirements.txt
+```
+
+run the application
 
 ```
 python manage.py runserver
